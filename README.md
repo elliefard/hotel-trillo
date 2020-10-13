@@ -1,3 +1,3 @@
 # hotel-trillo
 
-![](img/trillo.jpeg)
+![](img/trillo.png)
